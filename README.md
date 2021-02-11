@@ -8,5 +8,5 @@ Documentation for AWS-EC2 Machine
 ---
 
 ```
-PROBLEM and Manual Guidance
+NEW LINE
 ```
